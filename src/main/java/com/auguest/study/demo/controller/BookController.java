@@ -18,7 +18,6 @@ public class BookController {
      *
      * 1. 创建类，用于给类添加相关的属性。
      * 2. 在配置文件中配置属性。
-     * 3. 使用Spring获取信息的使用。
      * */
 
 
