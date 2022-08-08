@@ -12,5 +12,6 @@ public class School {
     private String name;
     private String location;
     private int age;
+    // 推动到GitHub中。
 
 }
