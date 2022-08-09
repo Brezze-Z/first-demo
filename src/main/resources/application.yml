@@ -8,3 +8,8 @@ spring:
 # Myabtis mapper文件。
 mybatis:
   mapper-locations: classpath:mapper/*.xml
+
+school:
+  name: "哈哈"
+  location: "北京"
+  age: 18

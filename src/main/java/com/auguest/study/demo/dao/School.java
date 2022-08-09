@@ -9,9 +9,11 @@ import org.springframework.stereotype.Component;
 @Data
 public class School {
 
+    // 说明: 通过一个实体类，来读取配置文件中的内容。
+    // 使用的注解：ConfigurationProperties。
     private String name;
     private String location;
     private int age;
-    // 推动到GitHub中。
+
 
 }
